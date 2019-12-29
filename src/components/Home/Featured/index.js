@@ -3,7 +3,7 @@ import Stripes from './Stripes';
 
 const Featured = () => {
   return (
-    <div className="featured_wrapper">
+    <div className='featured_wrapper'>
       <Stripes />
     </div>
   );
